@@ -1,0 +1,15 @@
+{
+  "name": "modulo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script"
+  },
+  "author": "Amaro Francisco",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
